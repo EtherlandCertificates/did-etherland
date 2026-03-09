@@ -94,7 +94,7 @@ Submission via pull request to [`github.com/w3c/did-extensions`](https://github.
 - **Author:** Etherland Technologies Lda
 - **Email:** hub@etherland.tech
 - **Website:** [etherland.tech](https://etherland.tech)
-- **Documentation:** [docs.etherland.tech](https://docs.etherland.tech)
+- **Documentation:** [etherland.gitbook.io](https://etherland.gitbook.io/wp/)
 
 ## License
 
