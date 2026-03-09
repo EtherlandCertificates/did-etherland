@@ -1,17 +1,21 @@
----
-Business Source License 1.1
+# Business Source License 1.1
 
-Licensor: Etherland Technologies Lda
+**Licensor:** Etherland Technologies Lda
 
-Licensed Work: did:etherland DID Method Specification
+**Licensed Work:** did:etherland DID Method Specification and associated resolver/registrar implementation
+(the "Licensed Work"). The Licensed Work is © 2025 Etherland Technologies Lda.
 
-The Licensed Work is (c) 2026 Etherland Technologies Lda
+**Additional Use Grant:** You may use the Licensed Work, or any derivative work thereof, solely for
+(i) personal, non-commercial purposes, or (ii) academic research, scholarly publication, or educational
+purposes, provided that in each case: (a) no revenue, fees, or other commercial benefit is derived,
+directly or indirectly, from such use; (b) the use does not form part of a product or service offered
+to third parties; and (c) any implementation of the `did:etherland` DID method that resolves, registers,
+or manages decentralized identifiers on a network other than the Etherland infrastructure is expressly
+excluded from this grant.
 
-Additional Use Grant: You may use the Licensed Work, or any derivative work thereof, solely for (i) personal, non-commercial purposes, or (ii) academic research, scholarly publication, or educational purposes, provided that in each case: (a) no revenue, fees, or other commercial benefit is derived, directly or indirectly, from such use; (b) the use does not form part of a product or service offered to third parties; and (c) any implementation of the did:etherland DID method that resolves, registers, or manages decentralized identifiers on a network other than the Etherland infrastructure is expressly excluded from this grant.
+**Change Date:** 2028-01-01
 
-Change Date: 2029-01-01
-
-Change License: Apache License, Version 2.0
+**Change License:** Apache License, Version 2.0
 
 ---
 
