@@ -127,9 +127,8 @@ If the submethod is not found in the registry, the resolver MUST return a `metho
 | Submethod | Chain | Chain ID | VDR Contract | Companion Specification |
 |-----------|-------|----------|-------------|------------------------|
 | `mylegacy` | Avalanche C-Chain | `43114` | *See submethod spec* | did:etherland:mylegacy Submethod Specification v1.0 |
-| `kya` | BNB Smart Chain (BSC) | `56` | *See submethod spec* | did:etherland:kya Submethod Specification v1.0 |
 
-Additional submethods (e.g., `mycompliance`, `myattendant`) will be registered as their companion specifications are published.
+Additional submethods (e.g., `kya`, `mycompliance`, `myattendant`) will be registered as their companion specifications are published.
 
 ## 6. Verifiable Data Registry (VDR)
 
