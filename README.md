@@ -10,10 +10,9 @@ A W3C DID Core v1.0 conformant decentralized identifier method for enterprise-gr
 .
 ├── README.md
 ├── did-etherland-method-spec-v1.3.md        # Root method specification (W3C submission)
-├── submethods/
-│   ├── did-etherland-mylegacy-submethod-v1.0.md   # Cultural heritage preservation
-│   └── did-etherland-kya-submethod-v1.0.md        # Know Your Agent (payment verification)
-└── profiles/
+├── submethod/
+│   └── did-etherland-mylegacy-submethod-v1.0.md   # Cultural heritage preservation
+└── profile/
     └── vc-profile-mylegacy-v1.1.md          # Verifiable Credentials Profile for MyLegacy
 ```
 
@@ -42,8 +41,8 @@ Companion documents published alongside the root spec. Each submethod declares i
 
 | Submethod | Domain | Chain | Chain ID | Specification |
 |-----------|--------|-------|----------|---------------|
-| `mylegacy` | Cultural heritage preservation | Avalanche C-Chain | `43114` | [`did-etherland-mylegacy-submethod-v1.0.md`](submethods/did-etherland-mylegacy-submethod-v1.0.md) |
-| `kya` | Know Your Agent (payment agent verification) | BNB Smart Chain | `56` | [`did-etherland-kya-submethod-v1.0.md`](submethods/did-etherland-kya-submethod-v1.0.md) |
+| `mylegacy` | Cultural heritage preservation | Avalanche C-Chain | `43114` | [`did-etherland-mylegacy-submethod-v1.0.md`](submethod/did-etherland-mylegacy-submethod-v1.0.md) |
+| `kya` | Know Your Agent (payment agent verification) | BNB Smart Chain | `56` | *Private Draft* |
 
 ### Tier 3 — Verifiable Credentials Profiles
 
@@ -51,7 +50,7 @@ Companion documents defining credential schemas, UFAC capability delegation, iss
 
 | Profile | Submethod | Specification |
 |---------|-----------|---------------|
-| MyLegacy VC Profile | `mylegacy` | [`vc-profile-mylegacy-v1.1.md`](profiles/vc-profile-mylegacy-v1.1.md) |
+| MyLegacy VC Profile | `mylegacy` | [`vc-profile-mylegacy-v1.1.md`](profile/vc-profile-mylegacy-v1.1.md) |
 | KYA VC Profile | `kya` | *Planned* |
 
 ## Key Design Decisions
@@ -68,7 +67,7 @@ Companion documents defining credential schemas, UFAC capability delegation, iss
 |----------|---------|--------|
 | Root method spec | v1.3 | Draft — preparing W3C submission |
 | MyLegacy submethod | v1.0 | Draft |
-| KYA submethod | v1.0 | Draft |
+| KYA submethod | v1.0 | Private Draft |
 | MyLegacy VC Profile | v1.1 | Draft |
 | KYA VC Profile | — | Planned |
 
