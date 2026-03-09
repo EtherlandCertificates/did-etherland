@@ -8,9 +8,9 @@
 **March 2026**
 
 Author: Etherland Technologies Lda — hub@etherland.tech
-https://github.com/EtherlandCertificates/did-etherland/blob/main/profiles/vc-profile-mylegacy-v1.1.md
+https://github.com/EtherlandCertificates/did-etherland/blob/main/profile/vc-profile-mylegacy-v1.1.md
 
-*This document is a companion to the [did:etherland Method Specification v1.3](https://github.com/EtherlandCertificates/did-etherland/blob/main/did-etherland-method-spec-v1.3.md) and the [did:etherland:mylegacy Submethod Specification v1.0](https://github.com/EtherlandCertificates/did-etherland/blob/main/submethods/did-etherland-mylegacy-submethod-v1.0.md), and should be read alongside them.*
+*This document is a companion to the [did:etherland Method Specification v1.3](https://github.com/EtherlandCertificates/did-etherland/blob/main/did-etherland-method-spec-v1.3.md) and the [did:etherland:mylegacy Submethod Specification v1.0](https://github.com/EtherlandCertificates/did-etherland/blob/main/submethod/did-etherland-mylegacy-submethod-v1.0.md), and should be read alongside them.*
 
 ---
 
@@ -26,7 +26,7 @@ The UFAC (User-First Access Credentials) protocol, Etherland's capability-based 
 
 ## 2. Scope and Relationship to the DID Method Specification
 
-The [did:etherland Method Specification](https://github.com/EtherlandCertificates/did-etherland/blob/main/did-etherland-method-spec-v1.3.md) (the root document) defines how identifiers are created, resolved, updated, and deactivated. The [did:etherland:mylegacy Submethod Specification](https://github.com/EtherlandCertificates/did-etherland/blob/main/submethods/did-etherland-mylegacy-submethod-v1.0.md) defines the identifier types, DID Document structures, and governance model for the cultural heritage domain. This companion document defines what claims can be made about those identifiers, how those claims are issued and verified, how authority is delegated between entities, and how delegated authority is exercised (invoked) and revoked.
+The [did:etherland Method Specification](https://github.com/EtherlandCertificates/did-etherland/blob/main/did-etherland-method-spec-v1.3.md) (the root document) defines how identifiers are created, resolved, updated, and deactivated. The [did:etherland:mylegacy Submethod Specification](https://github.com/EtherlandCertificates/did-etherland/blob/main/submethod/did-etherland-mylegacy-submethod-v1.0.md) defines the identifier types, DID Document structures, and governance model for the cultural heritage domain. This companion document defines what claims can be made about those identifiers, how those claims are issued and verified, how authority is delegated between entities, and how delegated authority is exercised (invoked) and revoked.
 
 This document MAY be revised independently of the DID method specification and submethod specification. Credential schemas can be added, modified, or deprecated without requiring changes to the core DID method or submethod.
 
@@ -497,7 +497,7 @@ The UCAN specification includes a Promise sub-specification that enables distrib
 - **[VC-DATA-MODEL]** W3C. *Verifiable Credentials Data Model v2.0.* https://www.w3.org/TR/vc-data-model-2.0/
 - **[DID-CORE]** W3C. *Decentralized Identifiers (DIDs) v1.0.* https://www.w3.org/TR/did-core/
 - **[DID-ETHERLAND]** Etherland. *did:etherland Method Specification v1.3.* https://github.com/EtherlandCertificates/did-etherland/blob/main/did-etherland-method-spec-v1.3.md
-- **[SUBMETHOD-MYLEGACY]** Etherland. *did:etherland:mylegacy Submethod Specification v1.0.* https://github.com/EtherlandCertificates/did-etherland/blob/main/submethods/did-etherland-mylegacy-submethod-v1.0.md
+- **[SUBMETHOD-MYLEGACY]** Etherland. *did:etherland:mylegacy Submethod Specification v1.0.* https://github.com/EtherlandCertificates/did-etherland/blob/main/submethod/did-etherland-mylegacy-submethod-v1.0.md
 - **[STATUS-LIST]** W3C. *StatusList2021.* https://www.w3.org/TR/vc-status-list/
 - **[UCAN]** UCAN Working Group. *User-Controlled Authorization Network Specification v1.0.0-rc.1.* https://github.com/ucan-wg/spec
 - **[UCAN-DELEGATION]** UCAN Working Group. *UCAN Delegation Specification v1.0.0-rc.1.* https://github.com/ucan-wg/delegation
