@@ -8,7 +8,7 @@
 **March 2026**
 
 Author: Etherland Technologies Lda — hub@etherland.tech
-https://github.com/EtherlandCertificates/did-etherland/blob/main/submethods/did-etherland-mylegacy-submethod-v1.0.md
+[https://github.com/EtherlandCertificates/did-etherland/blob/main/submethods/did-etherland-mylegacy-submethod-v1.0.md](https://github.com/EtherlandCertificates/did-etherland/blob/main/submethod/did-etherland-mylegacy-submethod-v1.0.md)
 
 *This document is a companion to the did:etherland Method Specification v1.3 and should be read alongside it.*
 
@@ -26,7 +26,7 @@ This specification conforms to the root `did:etherland` Method Specification v1.
 
 This is a Draft specification published as a companion to the `did:etherland` Method Specification v1.3. It has not undergone formal W3C review. The root method specification is the document submitted to the W3C DID Specification Registries; this companion document is referenced by and published alongside it.
 
-The latest version is maintained at: https://github.com/EtherlandCertificates/did-etherland/blob/main/submethods/did-etherland-mylegacy-submethod-v1.0.md
+The latest version is maintained at: [https://github.com/EtherlandCertificates/did-etherland/blob/main/submethods/did-etherland-mylegacy-submethod-v1.0.md](https://github.com/EtherlandCertificates/did-etherland/blob/main/submethod/did-etherland-mylegacy-submethod-v1.0.md)
 
 Feedback: hub@etherland.tech
 
