@@ -356,12 +356,12 @@ Etherland provides the shared VDR interface specification on an open-source basi
 | Submethod | Domain | Chain (Chain ID) | Status | Specification |
 |-----------|--------|-----------------|--------|---------------|
 | `mylegacy` | Cultural heritage preservation | Avalanche C-Chain (`43114`) | Published | did:etherland:mylegacy Submethod Specification v1.0 |
-| `kya` | Payment agent verification (Know Your Agent) | BNB Smart Chain (`56`) | Published | did:etherland:kya Submethod Specification v1.0 |
 
 ### 9.7 Planned Submethods
 
 | Submethod | Domain | Target Chain | Status |
 |-----------|--------|-------------|--------|
+| `kya` | Payment agent verification (Know Your Agent) | BNB Smart Chain (`56`) | Private Draft |
 | `mycompliance` | ESG & real estate compliance | TBD | In development |
 | `myattendant` | Luxury inventory management | TBD | In development |
 
@@ -450,8 +450,7 @@ Registration is submitted via pull request to `github.com/w3c/did-extensions` in
 
 ### 13.3 Companion Specifications
 
-- **[SUBMETHOD-MYLEGACY]** Etherland. *did:etherland:mylegacy Submethod Specification v1.0.* https://github.com/EtherlandCertificates/did-etherland/blob/main/submethods/did-etherland-mylegacy-submethod-v1.0.md
-- **[SUBMETHOD-KYA]** Etherland. *did:etherland:kya Submethod Specification v1.0.* https://github.com/EtherlandCertificates/did-etherland/blob/main/submethods/did-etherland-kya-submethod-v1.0.md
+- **[SUBMETHOD-MYLEGACY]** Etherland. *did:etherland:mylegacy Submethod Specification v1.0.* [https://github.com/EtherlandCertificates/did-etherland/blob/main/submethods/did-etherland-mylegacy-submethod-v1.0.md](https://github.com/EtherlandCertificates/did-etherland/blob/main/submethod/did-etherland-mylegacy-submethod-v1.0.md)
 - **[VC-PROFILE-MYLEGACY]** Etherland. *Verifiable Credentials Profile for MyLegacy v1.1.* https://github.com/EtherlandCertificates/did-etherland/blob/main/profiles/vc-profile-mylegacy-v1.1.md
 
 ---
