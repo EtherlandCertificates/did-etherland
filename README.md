@@ -79,7 +79,7 @@ The registration entry for the W3C DID Specification Registries:
 {
   "name": "etherland",
   "status": "registered",
-  "specification": "https://docs.etherland.tech/did-method/etherland",
+  "specification": "https://github.com/EtherlandCertificates/did-etherland/",
   "contactName": "Etherland / Alexis Brand",
   "contactEmail": "hub@etherland.tech",
   "contactWebsite": "https://etherland.tech",
