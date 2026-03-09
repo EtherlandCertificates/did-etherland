@@ -99,16 +99,12 @@ Submission via pull request to [`github.com/w3c/did-extensions`](https://github.
 
 ## License
 
-   Copyright 2026 Etherland Technologies Lda.
+Copyright 2026 Etherland Technologies Lda.
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+Licensed under the [Business Source License 1.1](./LICENSE).
 
-       http://www.apache.org/licenses/LICENSE-2.0
+This software is **not open-source** until the Change Date of **2028-01-01**, after which it converts
+to the Apache License 2.0. Use is permitted solely for personal or academic/research purposes.
+See [LICENSE](./LICENSE) for full terms.
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+For commercial licensing: hub@etherland.tech
