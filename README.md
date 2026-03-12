@@ -96,14 +96,21 @@ Submission via pull request to [`github.com/w3c/did-extensions`](https://github.
 - **Website:** [etherland.tech](https://etherland.tech)
 - **Documentation:** [etherland.gitbook.io](https://etherland.gitbook.io/wp/)
 
-## License
+## Licensing
 
-Copyright 2026 Etherland Technologies Lda.
+This repository uses a dual-license model.
 
-Licensed under the [Business Source License 1.1](./LICENSE).
+### Specification Documents
+All specification and documentation files (`.md`) are licensed under the
+**Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+See [LICENSE-DOCS](./LICENSE-DOCS) for the full text.
 
-This software is **not open-source** until the Change Date of **2028-01-01**, after which it converts
-to the Apache License 2.0. Use is permitted solely for personal or academic/research purposes.
-See [LICENSE](./LICENSE) for full terms.
+### Software Code
+All source code is licensed under the
+**Business Source License 1.1 (BUSL-1.1)**.
+Change Date: 2029-01-01
+Change License: Apache License 2.0
+Licensed Work: did:etherland resolver, registrar, and associated software implementation
+See [LICENSE-CODE](./LICENSE-CODE) for the full text.
 
-For commercial licensing: hub@etherland.tech
+For commercial licensing inquiries: hub@etherland.tech
